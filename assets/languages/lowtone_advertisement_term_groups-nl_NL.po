@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Advertisement Groups for Terms\n"
 "POT-Creation-Date: 2014-01-10 16:02+0100\n"
-"PO-Revision-Date: 2014-01-10 16:04+0100\n"
+"PO-Revision-Date: 2014-01-24 16:53+0100\n"
 "Last-Translator: Paul van der Meijs <paul@lowtone.nl>\n"
 "Language-Team: Lowtone <info@lowtone.nl>\n"
 "Language: nl\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: ../../lowtone-advertisement-term_groups.php:47
 msgid "Advertisement Group"
-msgstr "Advertentie groep"
+msgstr "Advertentiegroep"
 
 #: ../../lowtone-advertisement-term_groups.php:51
 msgid "— Select —"

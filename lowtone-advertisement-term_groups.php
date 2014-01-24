@@ -102,6 +102,12 @@ namespace lowtone\advertisement\term_groups {
 					return $options;
 				});
 
+				// Register textdomain
+				
+				add_action("plugins_loaded", function() {
+					load_plugin_textdomain("lowtone_advertisement_term_groups", false, basename(__DIR__) . "/assets/languages");
+				});
+
 			}
 		));
 
